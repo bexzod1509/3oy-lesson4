@@ -165,6 +165,9 @@ header {
 .dark .v {
   background: gray;
 }
+.dark .c2 {
+  background: gray;
+}
 .dar {
   margin: 7px -100px 0px -60px;
   color: #8b8e99;
@@ -218,6 +221,8 @@ del {
   margin-top: 8px;
 }
 .c2 {
+  padding: 43px;
+  background: #f6f6f6;
   justify-self: center;
   margin-top: 94px;
   grid-template-columns: repeat(3, 384px);
